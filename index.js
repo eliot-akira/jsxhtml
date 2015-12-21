@@ -1,6 +1,6 @@
 var expandChildren = function(children) {
   var buff, child, i, len;
-  console.log('exp', children);
+
   if (typeof children === 'string') {
     return children;
   }
@@ -21,7 +21,7 @@ var jsxhtml = function() {
   tag = arguments[0];
   attrs = arguments[1];
   children = 3 <= arguments.length ? slice.call(arguments, 2) : [];
-  console.log('crel', tag, attrs, children);
+
   buf = "<" + tag;
   if ((attrs != null) && typeof attrs === 'object') {
     for (key in attrs) {

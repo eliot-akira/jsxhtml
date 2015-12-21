@@ -1,6 +1,6 @@
 {
   "name": "jsxhtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {},
   "description": "JSX to HTML with Babelify",
   "devDependencies": {},
