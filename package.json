@@ -1,0 +1,19 @@
+{
+  "name": "jsxhtml",
+  "version": "0.0.1",
+  "dependencies": {},
+  "description": "JSX to HTML with Babelify",
+  "devDependencies": {},
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eliot-akira/jsxhtml.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
