@@ -1,8 +1,8 @@
 {
   "name": "jsxhtml",
-  "version": "0.0.2",
+  "version": "0.0.32",
   "dependencies": {},
-  "description": "JSX to HTML with Babelify",
+  "description": "Transform JSX to HTML with Babelify and transform-react-jsx",
   "devDependencies": {},
   "keywords": [],
   "license": "MIT",
